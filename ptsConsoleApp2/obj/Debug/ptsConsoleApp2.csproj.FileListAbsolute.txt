@@ -1,0 +1,7 @@
+C:\Users\frrnq\source\repos\CStrain\ptsConsoleApp2\ptsConsoleApp2\bin\Debug\ptsConsoleApp2.exe.config
+C:\Users\frrnq\source\repos\CStrain\ptsConsoleApp2\ptsConsoleApp2\bin\Debug\ptsConsoleApp2.exe
+C:\Users\frrnq\source\repos\CStrain\ptsConsoleApp2\ptsConsoleApp2\bin\Debug\ptsConsoleApp2.pdb
+C:\Users\frrnq\source\repos\CStrain\ptsConsoleApp2\ptsConsoleApp2\obj\Debug\ptsConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\frrnq\source\repos\CStrain\ptsConsoleApp2\ptsConsoleApp2\obj\Debug\ptsConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\frrnq\source\repos\CStrain\ptsConsoleApp2\ptsConsoleApp2\obj\Debug\ptsConsoleApp2.exe
+C:\Users\frrnq\source\repos\CStrain\ptsConsoleApp2\ptsConsoleApp2\obj\Debug\ptsConsoleApp2.pdb
